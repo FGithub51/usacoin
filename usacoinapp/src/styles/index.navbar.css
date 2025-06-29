@@ -1,0 +1,77 @@
+nav {
+  max-width: auto;
+  padding: 0px 90px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  overflow: visible;
+  top: 0;
+  background-color: #da1333;
+  min-height: 80px;
+  border-bottom: 1px solid #323235;
+
+}
+
+.cryptoweblogo {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+
+.nav-logo {
+  max-width: 40px;
+}
+
+.logo-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+  display: flex;
+
+}
+
+.nav-desktop {
+  margin-right: auto;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+
+}
+
+.link a {
+  position: relative;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.link-dropdown a {
+  position: relative;
+  padding-bottom: 0.75rem;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.link a:hover {
+  background-color: #213875;
+  border-radius: 6px;
+  transition: all 0.3s ease ;
+}
+
+.nav-btn {
+  padding: 15px 25px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #213875;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: auto;
+}
+
+.nav-btn:hover {
+  background-color: #2b4797;
+}

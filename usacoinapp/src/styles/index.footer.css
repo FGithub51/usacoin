@@ -1,0 +1,13 @@
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: 200px;
+    background-color: #213875;
+    margin-top: 60px;
+}
+
+.footer-title-container {
+    font-size: 40px;
+    color: aliceblue;
+}

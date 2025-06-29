@@ -1,0 +1,30 @@
+.trump-container {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #da1333;
+}
+
+.trump-content {}
+
+.trump-title {
+    font-size: 100px;
+    font-weight: 600;
+    color:aliceblue
+}
+
+.trump-description {
+    color: aliceblue;
+    margin-right: 60px;
+}
+
+.trump-sticker {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.trump-sticker img {
+    width: 500px;
+    height: auto;
+}
